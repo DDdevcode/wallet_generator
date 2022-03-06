@@ -2,7 +2,6 @@
 ```bash
 npm i
 ```
-(сорри так исторически сложилось а править не было времени)
 ```bash
 npm install light-server
 npx light-server -s dist
